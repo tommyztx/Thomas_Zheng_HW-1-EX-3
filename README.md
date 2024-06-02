@@ -38,7 +38,7 @@ Repo for students to practice creating a pull request after forking a repo
 
     c. Click the green "New Pull Request" button.
 
-    d. On the "Compare changes" page, ensure that the "base repository" is set to `sbruce23/PRdemo` and the "base" branch is set to `main`.
+    d. On the "Compare changes" page, ensure that the "base repository" is set to `roiterst/PullRequestDemo` and the "base" branch is set to `main`.
 
     e. In the "head repository" drop-down, select your forked repository.
 
