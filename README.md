@@ -1,4 +1,4 @@
-# HW 1 EX 1
+# HW 1 EX 6
 1. First, make a fork of the GitHub repo.
 
     a. Visit URL: [https://github.com/Alex-Roitershtein/HW-1-EX-6](https://github.com/Alex-Roitershtein/HW-1-EX-6)
