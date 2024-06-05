@@ -1,5 +1,4 @@
-# PullRequestDemo
-Repo for students to practice creating a pull request after forking a repo
+# HW 1 EX 1
 1. First, make a fork of the GitHub repo.
 
     a. Visit URL: [https://github.com/Alex-Roitershtein/HW-1-EX-6](https://github.com/Alex-Roitershtein/HW-1-EX-6)
@@ -8,7 +7,7 @@ Repo for students to practice creating a pull request after forking a repo
 
     *Note that if you are already listed as a collaborator on the repo, or it is your own repo, you can skip this step in practice.
 
-2. Clone the forked GitHub repository from your GitHub account (`git clone https://github.com/your-username/PRdemo.git`), replacing `your-username` with your actual GitHub username.
+2. Clone the forked GitHub repository from your GitHub account (`git clone https://github.com/your-username/HW1-EX-6.git`), replacing `your-username` with your actual GitHub username.
 
 3. In a terminal window located at the folder, run:
 
@@ -18,27 +17,27 @@ Repo for students to practice creating a pull request after forking a repo
     
     c. `git checkout dev` (checkout the new branch)
 
-4. Edit `fav_animal.txt` on your local machine in the directory by adding your favorite animal to the file and save it.
+4. Edit `your_secret_STAT315_id.txt` on your local machine in the directory by following instructions within the file and save it.
 
 5. In the terminal window run:
 
     a. `git status` (should show that `fav_animal.txt` has been modified but is not in the staging area)
     
-    b. `git add .` (Should add `fav_animal.txt` to the staging area; run `git status` if you want to confirm this)
+    b. `git add .` (Should add `your_secret_STAT315_id.txt` to the staging area; run `git status` if you want to confirm this)
     
-    c. `git commit -m 'added favorite animal <insert name here>' ` replacing `<insert name here>` with the name of your favorite animal
+    c. `git commit -m 'added secret STAT315 id <insert secret id here>' ` replacing `<insert secret id here>` with your "secret STAT315  id"
     
     d. `git push --set-upstream origin dev` (set up and use a classic security token if needed to be able to do this)
 
 6. Create a pull request on GitHub to merge your changes from your forked repository into the original repository:
 
-    a. Navigate to your forked repository on GitHub by going to the URL: [https://github.com/your-username/PRdemo](https://github.com/your-username/PRdemo), replacing `your-username` with your actual GitHub username.
+    a. Navigate to your forked repository on GitHub by going to the URL: [https://github.com/your-username/HW-1-EX-6](https://github.com/your-username/HW-1-EX-6), replacing `your-username` with your actual GitHub username.
 
     b. At the top of your repository, locate and click on the "Pull Requests" tab.
 
     c. Click the green "New Pull Request" button.
 
-    d. On the "Compare changes" page, ensure that the "base repository" is set to `roiterst/PullRequestDemo` and the "base" branch is set to `main`.
+    d. On the "Compare changes" page, ensure that the "base repository" is set to `Alex-Roitershtein/HW-1-EX-6` and the "base" branch is set to `main`.
 
     e. In the "head repository" drop-down, select your forked repository.
 
