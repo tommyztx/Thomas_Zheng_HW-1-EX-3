@@ -1,13 +1,13 @@
-# HW 1 EX 6
+# HW 1 EX 3
 1. First, make a fork of the GitHub repo.
 
-    a. Visit URL: [https://github.com/Alex-Roitershtein/HW-1-EX-6](https://github.com/Alex-Roitershtein/HW-1-EX-6)
+    a. Visit URL: [https://github.com/Alex-Roitershtein/HW-1-EX-3](https://github.com/Alex-Roitershtein/HW-1-EX-3)
 
     b. In the top right corner of the screen, click on the down arrow next to "Fork" and select "Create a new fork." This creates an independent copy of the GitHub repo, which is then saved as a repository under your GitHub account.
 
     *Note that if you are already listed as a collaborator on the repo, or it is your own repo, you can skip this step in practice.
 
-2. Clone the forked GitHub repository from your GitHub account (`git clone https://github.com/your-username/HW1-EX-6.git`), replacing `your-username` with your actual GitHub username.
+2. Clone the forked GitHub repository from your GitHub account (`git clone https://github.com/your-username/HW1-EX-3.git`), replacing `your-username` with your actual GitHub username.
 
 3. In a terminal window located at the folder, run:
 
@@ -31,7 +31,7 @@
 
 6. Create a pull request on GitHub to merge your changes from your forked repository into the original repository:
 
-    a. Navigate to your forked repository on GitHub by going to the URL: [https://github.com/your-username/HW-1-EX-6](https://github.com/your-username/HW-1-EX-6), replacing `your-username` with your actual GitHub username.
+    a. Navigate to your forked repository on GitHub by going to the URL: [https://github.com/your-username/HW-1-EX-3](https://github.com/your-username/HW-1-EX-3), replacing `your-username` with your actual GitHub username.
 
     b. At the top of your repository, locate and click on the "Pull Requests" tab.
 
