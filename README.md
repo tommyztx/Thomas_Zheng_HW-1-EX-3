@@ -21,7 +21,7 @@
 
 5. In the terminal window run:
 
-    a. `git status` (should show that `fav_animal.txt` has been modified but is not in the staging area)
+    a. `git status` (should show that `your_secret_STAT315_id.txt` has been modified but is not in the staging area)
     
     b. `git add .` (Should add `your_secret_STAT315_id.txt` to the staging area; run `git status` if you want to confirm this)
     
